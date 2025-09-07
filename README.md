@@ -2,7 +2,7 @@
 
 **A passionate Full Stack Developer || React Enthusiast || Digital Marketer from Pakistan**
 
-📩 Email Me 👉 ✉️ [Your Email Here] for Collaboration/Projects 🚀
+📩 Email Me 👉 ✉️ [yts80399@gmail.com] for Collaboration/Projects 🚀
 
 🔭 I’m currently working on:
 Building full-stack apps with React, Node.js & MongoDB (like Invoice Generator, E-commerce, and Management Systems).
@@ -20,7 +20,7 @@ Scaling apps, optimization, and advanced system design.
 React ⚛️, Node.js, MongoDB, Digital Marketing, Social Media Strategy.
 
 - **📫 How to reach me:**
-✉️ [yts80399@gmail.com] | 🌐 [Your LinkedIn/GitHub Links]
+✉️ [yts80399@gmail.com] 
 
 - **😄 Pronouns:** He/Him
 
